@@ -34,7 +34,7 @@ public class TemperatureChanger {
                 x =(double)( x*9/5+32);
                 double y = (double) 9/5;
 		x =(double)( x*(9/5)+32);
-               System.out.println(z*y+32);
+               System.out.print(z*y+32);
                 System.out.print("˚ Farenheit");
 	
         }
